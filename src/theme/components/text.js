@@ -5,14 +5,14 @@ export const Text = {
 
   variants: {
     heading: {
-      fontSize: '2.7rem',
-      color: '#FFFFFF'
+      fontSize: '2.5rem',
+      color: '#FFFFFF',
     },
     subtitle: {
       fontSize: '1rem',
       fontWeight: '500',
       lineHeight: '1.70rem',
-      color: '#404040',
+      color: '#4e4e4e',
     },
   },
 
